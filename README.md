@@ -18,3 +18,9 @@ python main.py
 ## License
 
 MIT
+
+## Changes - 2025-10-03
+
+- Adds comprehensive error handling
+- Minor bug fixes and improvements
+- Updated dependencies
